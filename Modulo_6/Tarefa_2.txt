@@ -1,0 +1,31 @@
+Algoritmo "Hora de Acordar"
+
+INICIO
+
+    1 - Abro meus olhos
+    2 - Me levanto da cama 
+    3 - Arrumo a minha cama 
+    4 - Saio do meu quarto
+    5 - Vou ao banheiro
+    6 - Pego minha escova de dentes
+    7 - Escovo meus dentes 
+    8 - Lavo meu rosto
+    9 - Vejo como esta o meu dia
+    10 - Estou com muitas coisas a fazer
+        1 - Vou a cozinha
+        2 - Preparo meu café da manha
+        3 - Vou fazer as minha coisas 
+    11 - Estou com o dia tranquilo
+        1 - Vou ao meu quarto
+        2 - Visto uma roupa de treino
+        3 - Saio de casa
+        4 - Faço meu cardio
+        5 - Volto para casa 
+        6 - Vou ao banheiro 
+        7 - Tomo meu banho 
+        8 - Troco de roupa
+        9 - Vou a cozinha
+        10 - Preparo meu café da manha
+        11 - Vou fazer as minha coisas 
+
+FIM
