@@ -1,6 +1,6 @@
 package br.com.gverga.domain;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 import java.time.Instant;
 

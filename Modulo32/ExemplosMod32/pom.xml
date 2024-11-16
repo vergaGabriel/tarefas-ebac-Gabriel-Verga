@@ -26,40 +26,11 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.hibernate.orm</groupId>
-            <artifactId>hibernate-core</artifactId>
-            <version>6.6.2.Final</version>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>5.6.15.Final</version>
         </dependency>
-        <dependency>
-            <groupId>org.hibernate.orm</groupId>
-            <artifactId>hibernate-spatial</artifactId>
-            <version>6.6.2.Final</version>
-        </dependency>
-        <dependency>
-            <groupId>org.hibernate.orm</groupId>
-            <artifactId>hibernate-envers</artifactId>
-            <version>6.6.2.Final</version>
-        </dependency>
-        <dependency>
-            <groupId>org.hibernate.orm</groupId>
-            <artifactId>hibernate-hikaricp</artifactId>
-            <version>6.6.2.Final</version>
-        </dependency>
-        <dependency>
-            <groupId>org.hibernate.orm</groupId>
-            <artifactId>hibernate-c3p0</artifactId>
-            <version>6.6.2.Final</version>
-        </dependency>
-        <dependency>
-            <groupId>org.hibernate.orm</groupId>
-            <artifactId>hibernate-proxool</artifactId>
-            <version>6.6.2.Final</version>
-        </dependency>
-        <dependency>
-            <groupId>org.hibernate.orm</groupId>
-            <artifactId>hibernate-jcache</artifactId>
-            <version>6.6.2.Final</version>
-        </dependency>
+
     </dependencies>
 
 </project>
