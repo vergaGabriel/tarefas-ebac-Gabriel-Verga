@@ -7,6 +7,8 @@ import br.com.gverga.domain.Curso;
 import org.junit.Test;
 import org.junit.Assert;
 
+import java.util.List;
+
 public class CursoTest {
 
     private ICursoDao cursoDao;
@@ -25,5 +27,13 @@ public class CursoTest {
 
         Assert.assertNotNull(curso);
         Assert.assertNotNull(curso.getId());
+    }
+
+    @Test
+    public void buscar() {
+        List<Curso> curso = cursoDao.buscar(1L);
+
+        Assert.assertNotNull(curso);
+        Assert.assertNotNull(curso.get(0).getId());
     }
 }
