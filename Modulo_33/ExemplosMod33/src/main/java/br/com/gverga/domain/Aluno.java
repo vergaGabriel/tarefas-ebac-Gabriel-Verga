@@ -21,7 +21,7 @@ public class Aluno {
     @OneToOne(mappedBy = "aluno")
     private Matricula matricula;
 
-    @ManyToMany
+    @ManyToMany(cascade = CascadeType.ALL)
     @JoinTable(name = "TB_ALUNO_COMPUTADOR",
             joinColumns = { @JoinColumn(name = "id_aluno_fk") },
             inverseJoinColumns = { @JoinColumn(name = "id_computador_fk")})
