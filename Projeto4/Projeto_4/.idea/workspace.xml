@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="563d0dd9-0de9-428e-a059-9de7924fe53b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Projeto3/Projeto3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/anotacao/ColunaTabela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/anotacao/Tabela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/anotacao/TipoChave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/ClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/IClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/IProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/IVendaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/Persistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/VendaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/factory/ClienteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/factory/ProdutoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/factory/ProdutoQuantidadeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/factory/VendaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/generic/GenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/generic/IGenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/generic/SingletonMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/dao/generic/jdbc/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/domain/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/domain/ProdutoQuantidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/domain/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/exceptions/DAOException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/exceptions/MaisDeUmRegistroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/exceptions/TableException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/exceptions/TipoChaveNaoEncontradaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/exceptions/TipoElementoNaoConhecidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/services/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/services/IClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/services/IProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/services/ProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/services/generic/GenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/main/java/br/com/gverga/services/generic/IGenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/ClienteDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/ClienteServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/ProdutoDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/ProdutoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/VendaDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/dao/ClienteDaoMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projeto4/src/test/java/br/com/gverga/dao/ProdutoDaoMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2pfCp6KBRCP7z9tmcEh15kP1dVG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <setting name="urlFile" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="563d0dd9-0de9-428e-a059-9de7924fe53b" name="Changes" comment="" />
+      <created>1733147923536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733147923536</updated>
+    </task>
+    <servers />
+  </component>
+</project>
