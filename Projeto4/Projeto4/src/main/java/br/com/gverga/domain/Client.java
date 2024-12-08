@@ -4,6 +4,7 @@ import br.com.gverga.dao.Persistente;
 
 import javax.persistence.*;
 
+@Entity
 @Table(name = "TB_CLIENT")
 public class Client implements Persistente {
 
